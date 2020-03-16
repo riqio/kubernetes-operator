@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-pipelineJob('adminui-be') {
+pipelineJob('adminui_2') {
     displayName('Build adminui-be')
 
     logRotator {
