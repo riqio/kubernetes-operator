@@ -1,7 +1,7 @@
 #!/usr/bin/env groovy
 
 pipelineJob('adminui_2') {
-    displayName('Build adminui-be')
+    displayName('Build adminui-b2')
 
     logRotator {
         numToKeep(10)
